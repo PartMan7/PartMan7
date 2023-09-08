@@ -4,7 +4,7 @@
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=PartMan7&show_icons=true&count_private=true&show_icons=true&theme=gruvbox&hide_rank=true&card_width=300" alt="GitHub Stats" />
       </td>
-      <td rowspan="2"><font face="monospace">
+      <td rowspan="2">
         <pre><br/>
 &nbsp;&nbsp;&nbsp;&nbsp; Hi, I'm Parth Mane (or PartMan, as I go online)! &nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp; I'm a professional at irreversibly messing up my &nbsp;&nbsp;&nbsp;&nbsp;
@@ -22,7 +22,7 @@
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp; Oh, and I like Pokémon. &nbsp;&nbsp;&nbsp;&nbsp;
         <br/></pre>
-      </font></td>
+      </td>
     </tr>
     <tr>
       <td>
